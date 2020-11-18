@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+### Programming languages
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
+![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) 
+![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=Fortran&logoColor=white)
+
+### Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
+
+
+
 <!--
 **soyounson/soyounson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
