@@ -29,25 +29,28 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS, IDE (Jupyter notebook, VS code)
  - Machine & Deep learning skills: Scikit-learn, Tensorflow, ObsPy
 
+### :round_pushpin: Where I have been
+🇨🇭 ETH Zurich, :us: LANL, :fr: ISTerre, UGA
+
 ### :mailbox: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
 
-### :round_pushpin: Where I have been
-🇨🇭 ETH Zurich, :us: LANL, :fr: ISTerre, UGA
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyounson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!--
+![Soyoun Son's github stats](https://github-readme-stats.vercel.app/api?username=soyounson&show_icons=true)
+
+
 <!-- 
+### :octocat: Computational skills
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
-
-![Soyoun Son's github stats](https://github-readme-stats.vercel.app/api?username=soyounson&show_icons=true)
-
-
 <!-- 
-### :octocat: Computational skills
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-06d714?style=plastic&logo=Python&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=mathworks&logoColor=white) 
 ![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=Fortran&logoColor=white)
@@ -59,8 +62,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![MySQL](https://img.shields.io/badge/mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=aws&logoColor=white)
 
-<p align="center">
- <a href="https://linkedin.com/in/soyounson" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:soyounson@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-<br /> 
+
