@@ -1,11 +1,14 @@
 ### Overview 
 I am a data scientist and a researcher with extensive knowledges in geophysics, Fluid dynamics, and engineering fields and skills. I have trained to solve diverse problems and I have been flexibly adapted to changes as a resourceful and friendly team-player.
-                  
+
+### Areas of Expertise
+Geophysics, Fluid dynamics, Data analysis, Machine & Deep learnings
+
 ### Programming languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) 
 ![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=Fortran&logoColor=white)
-![C++](https://img.shields.io/badge/cpp-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=c++&logoColor=white)
 
 Computational experience: Python, MATLAB, Fortran, C++, Scikit-learn, Tensorflow, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS
 ### Programming languages
