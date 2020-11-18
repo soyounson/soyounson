@@ -13,6 +13,7 @@ I am a data scientist and a researcher with extensive knowledges in geophysics, 
 ![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=Fortran&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=c++&logoColor=white)
 
+![GIT](https://img.shields.io/badge/c++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=c++&logoColor=white)
 Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS
 #### :octocat: Machine & Deep learning skills
 scikit-learn, TensorfSlow, 
@@ -20,6 +21,8 @@ scikit-learn, TensorfSlow,
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyounson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
