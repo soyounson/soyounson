@@ -7,7 +7,7 @@ I am a data scientist and a researcher with computational skills of coding in **
  - Geophysics, seismology, Fluid dynamics
  - Computational Fluid Dyanamics (CFD)
 
-### :octocat: Languages and Tools
+### :lemon: Languages and Tools
 <!-- <p align="center">-->
 <code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -29,10 +29,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS, IDE (Jupyter notebook, VS code)
  - Machine & Deep learning skills: Scikit-learn, Tensorflow, ObsPy
 
-### :mailbox_with_mail: Contacts
+### :mailbox: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
 
+### :round_pushpin: Where I have been
+🇨🇭 ETH Zurich, :us: LANL, :fr: ISTerre, UGA
 <!-- 
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
