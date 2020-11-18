@@ -1,5 +1,5 @@
 ### :cloud: Overview 
-I am a data scientist and a researcher with extensive knowledges in geophysics, Fluid dynamics, and engineering fields and data skills of coding in **Python, Matlab, Fortran**, c++, and Matlab languages. I have trained to solve diverse problems and I have been flexibly adapted to changes as a resourceful and friendly team-player.I have project experience using **Deep learning**, especially Convolutional Neural Network (CNN).
+I am a data scientist and a researcher with extensive knowledges in geophysics, Fluid dynamics, and engineering fields and data skills of coding in **Python, Matlab, Fortran**, c++, and Matlab languages. I have trained to solve diverse problems and I have been flexibly adapted to changes as a resourceful and friendly team-player.I have project experience using **Machine learning** and **Deep learning**.
 
 ### :earth_americas: Areas of Expertise
  - Data analysis 
@@ -7,31 +7,21 @@ I am a data scientist and a researcher with extensive knowledges in geophysics, 
  - Geophysics, seismology, Fluid dynamics
  - Computational Fluid Dyanamics (CFD)
 
-
-
 ### :octocat: Computational skills
 <p align="center">
-<code><img height="40" 
+<code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" 
+<code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="40" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fortran/fortran.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<code><img height="40" 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/AWS/AWS.png"></code>
-<code><img height="40" 
+<code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" 
+<code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
 ### :mailbox_with_mail: Contacts
