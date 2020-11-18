@@ -13,8 +13,15 @@ I am a data scientist and a researcher with extensive knowledges in geophysics, 
 ![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=Fortran&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=c++&logoColor=white)
 
-![GIT](https://img.shields.io/badge/c++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=c++&logoColor=white)
-Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS
+![GIT](https://img.shields.io/badge/git-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=github&logoColor=white)
+
+![SHELL](https://img.shields.io/badge/shell-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=shell&logoColor=white)
+![LINUX](https://img.shields.io/badge/linux-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=linux&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-06d714?style=plastic&logo=aws&logoColor=white)
+
 #### :octocat: Machine & Deep learning skills
 scikit-learn, TensorfSlow, 
 
