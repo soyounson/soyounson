@@ -8,7 +8,7 @@ Geophysics, Fluid dynamics, Data analysis, Machine & Deep learnings
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) 
 ![Fortran](https://img.shields.io/badge/Fortran-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=Fortran&logoColor=white)
-![C++](https://img.shields.io/badge/cpp-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=c++&logoColor=white)
 
 Computational experience: Python, MATLAB, Fortran, C++, Scikit-learn, Tensorflow, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS
 ### Programming languages
