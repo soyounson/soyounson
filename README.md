@@ -1,5 +1,5 @@
 ### :cloud: Overview 
-I am a data scientist and a researcher with extensive knowledges in geophysics, Fluid dynamics, and engineering fields and data skills of coding in **Python, Matlab, Fortran**, c++, and Matlab languages. I have trained to solve diverse problems and I have been flexibly adapted to changes as a resourceful and friendly team-player.I have project experience using **Machine learning** and **Deep learning**.
+I am a data scientist and a researcher with computational skills of coding in **Python, Matlab**, Fortran, C++ and analyzing data using **Machine learning** and **Deep learning**, especially Convolutional Neural Network (CNN). To solve diverse problems, I have built extensive knowledges in Fluid dynamics, Geophysics, Seiemology,and Mechanical & Civil engineering fields. 
 
 ### :earth_americas: Areas of Expertise
  - Data analysis 
@@ -23,9 +23,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
- - Computational experience: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS
- - Machine & Deep learning skills: Scikit-learn, Tensorflow
+ - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS, IDE (Jupyter notebook, VS code)
+ - Machine & Deep learning skills: Scikit-learn, Tensorflow, ObsPy
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
