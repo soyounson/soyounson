@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS, IDE (Jupyter notebook, VS code)
  - Machine & Deep learning skills: Scikit-learn, Tensorflow, ObsPy
 
-### :round_pushpin: Where I have been
+### :round_pushpin: Where I have been...
 🇨🇭 ETH Zurich, :us: LANL, :fr: ISTerre, UGA
 
 ### :mailbox: Contacts
