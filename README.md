@@ -33,6 +33,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
 
+<!-- 
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
 ![Soyoun Son's github stats](https://github-readme-stats.vercel.app/api?username=soyounson&show_icons=true)
