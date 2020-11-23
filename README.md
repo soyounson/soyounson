@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
- - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, Jupyter notebook, VS code, Google colab, MySQL, AWS
+ - Computational experiences: Python, MATLAB, Fortran, C++, Git, Github, shell scripting, High Performance Computing (HPC), Linux, MySQL, AWS, programming interface (Jupyter notebook, VS code, Google Colab)
  - Machine & Deep learning skills: Scikit-learn, Tensorflow, ObsPy
 
 ### :round_pushpin: Where I have been...
