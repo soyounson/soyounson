@@ -21,7 +21,7 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 + [Kaggle](https://www.kaggle.com/soyounson)
 
-+ [Github blog](https://soyounson.github.io/)
++ [personal blog](https://soyounson.tistory.com/)
 
 + [team blog](https://slow-learning.tistory.com/)
 
