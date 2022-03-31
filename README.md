@@ -1,7 +1,7 @@
-### :cloud: Overview 
+### 🦋 Overview 
 I am a data scientist and a researcher with computational skills of coding and analyzing data using **statistics**, **Machine learning**, and **Deep learning**. To solving diverse problems based on multi-physics and multi-scaled approaches, I have built extensive knowledges in Engineering, Physics, Computer science fields and also worked in diverse countries including Switzerland, USA, Italy, France, and S. Korea. 
 
-### :earth_americas: Areas of Expertise
+### 🌴 Areas of Expertise
  - Data Science
  - Statistics for Machine Learning
  - Machine & Deep learning
