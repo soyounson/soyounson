@@ -9,21 +9,23 @@ I am a data scientist and a researcher with computational skills of coding and a
  - Signal processing
  - Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
 
+### :round_pushpin: Where I have worked and studied ...
+🇨🇭 ETH Zurich, Switzerland | :us: LANL, NM USA | :fr: ISTerre; UGA, Grenoble France
 
+(for a short time, :it: politecnico di torino, Turin Italy)
 
-### :round_pushpin: Where I have been...
-🇨🇭 ETH Zurich, :us: LANL, :fr: ISTerre, UGA
+### :mailbox: Where you can find me ... 
++ :envelope_with_arrow: [Mail](soyoun.son@gmail.com) 
 
-### :mailbox: Contact
-+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoun.son@gmail.com)](mailto:soyoun.son@gmail.com) 
++ :handshake: [Linkedin](https://www.linkedin.com/in/soyounson)
 
-+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyounson)](https://www.linkedin.com/in/soyounson)
++ :duck: [Kaggle](https://www.kaggle.com/soyounson)
 
-+ [Kaggle](https://www.kaggle.com/soyounson)
++ :rainbow: [Personal blog : AI, Be there or Be square](https://soyounson.tistory.com/)
 
-+ [personal blog](https://soyounson.tistory.com/)
++ :electron: [Team blog : slow_learning](https://slow-learning.tistory.com/)
 
-+ [team blog](https://slow-learning.tistory.com/)
++ :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
 
-+ [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
++ :mage: [Study note: G2-AI](https://github.com/G2-AI)
 
