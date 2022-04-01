@@ -15,7 +15,7 @@ I am a data scientist and a researcher with computational skills of coding and a
 (for a short time, :it: politecnico di torino, Turin Italy)
 
 ### :mailbox: Where you can find me ... 
-+ :envelope_with_arrow: [Mail](soyoun.son@gmail.com) 
++ :envelope_with_arrow: [Mail](mailto:soyoun.son@gmail.com) 
 
 + :handshake: [Linkedin](https://www.linkedin.com/in/soyounson)
 
@@ -27,5 +27,5 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
 
-+ :mage: [Study note: G2-AI](https://github.com/G2-AI)
++ :mage: [Study note: G2-AI](https://github.com/G2-AI/Meeting-Note)
 
