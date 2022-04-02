@@ -26,6 +26,3 @@ I am a data scientist and a researcher with computational skills of coding and a
 + :electron: [Team blog : slow_learning](https://slow-learning.tistory.com/)
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
-
-+ :mage: [Study note: G2-AI](https://github.com/G2-AI/Meeting-Note)
-
