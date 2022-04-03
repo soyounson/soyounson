@@ -21,8 +21,4 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 + :duck: [Kaggle](https://www.kaggle.com/soyounson)
 
-+ :rainbow: [Personal blog : AI, Be there or Be square](https://soyounson.tistory.com/)
-
-+ :electron: [Team blog : slow_learning](https://slow-learning.tistory.com/)
-
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
