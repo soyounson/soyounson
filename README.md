@@ -22,3 +22,5 @@ I am a data scientist and a researcher with computational skills of coding and a
 + :duck: [Kaggle](https://www.kaggle.com/soyounson)
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
+
++ 🌈 [Personal blog in Korean](https://soyounson.tistory.com/)
