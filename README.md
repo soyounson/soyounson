@@ -31,4 +31,6 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
 
++ 🌈 [Github blog](https://soyounson.github.io/)
+
 + 🌈 [Personal blog in Korean](https://soyounson.tistory.com/)
