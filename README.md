@@ -14,6 +14,8 @@ I am a data scientist and a researcher with computational skills of coding and a
 - ASR
 - Mathematics for ML
 - Features engineerings
+- Time series data sets
+- Prophet 
 
 ### :round_pushpin: Where I have worked and studied ...
 🇨🇭 ETH Zurich, Switzerland | :us: LANL, NM USA | :fr: ISTerre; UGA, Grenoble France
