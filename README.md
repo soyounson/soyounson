@@ -9,6 +9,12 @@ I am a data scientist and a researcher with computational skills of coding and a
  - Signal processing
  - Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
 
+### 🌱 Current Areas of Interest (May, 2022)
+- NLP
+- ASR
+- Mathematics for ML
+- Features engineerings
+
 ### :round_pushpin: Where I have worked and studied ...
 🇨🇭 ETH Zurich, Switzerland | :us: LANL, NM USA | :fr: ISTerre; UGA, Grenoble France
 
