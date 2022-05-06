@@ -11,9 +11,10 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 ### 🌱 Current Areas of Interest (May, 2022)
 - NLP
-- Mathematics for ML
+- Mathematics and statistics for ML
 - Features engineerings
 - Time series data sets
+- ofc, ML/DL
 
 ### :round_pushpin: Where I have worked and studied ...
 🇨🇭 ETH Zurich, Switzerland | :us: LANL, NM USA | :fr: ISTerre; UGA, Grenoble France
@@ -29,6 +30,4 @@ I am a data scientist and a researcher with computational skills of coding and a
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
 
-+ 🌈 [Github blog](https://soyounson.github.io/)
-
-+ 🌈 [Personal blog in Korean](https://soyounson.tistory.com/)
++ 🌈 [Github blog : ABB](https://soyounson.github.io/)
