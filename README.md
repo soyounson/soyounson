@@ -10,11 +10,12 @@ I am a **data scientist** with extensive experiences, domain knowledge, and skil
  - Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
 
 ### 🌱 Current Areas of Interest (May, 2022)
-- NLP
-- Mathematics and statistics for ML
-- Features engineerings
-- Time series data sets
-- ofc, ML/DL
++ NLP (Natural Language Processing)
++ Mathematics and statistics for ML
++ Features engineerings
++ Time series data sets
++ App development 
++ ofc, ML/DL
 
 ### :round_pushpin: Where I have worked and studied ...
 🇨🇭 ETH Zurich, Switzerland | :us: LANL, NM USA | :fr: ISTerre; UGA, Grenoble France
