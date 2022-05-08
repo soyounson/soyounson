@@ -1,5 +1,5 @@
 ### 🦋 Overview 
-I am a data scientist and a researcher with computational skills of coding and analyzing data using **statistics**, **Machine learning**, and **Deep learning**. To solving diverse problems based on multi-physics and multi-scaled approaches, I have built extensive knowledges in Engineering, Physics, Computer science fields and also worked in diverse countries including Switzerland, USA, Italy, France, and S. Korea. 
+I am a **data scientist** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and built a pipeline from feature engineering to data analysis with statistics, Machine learning, and deep learning. Also, I understand problems, approaches, and methodology, designing a piplines and delivering output, insights, and values. 
 
 ### 🌴 Areas of Expertise
  - Data Science
