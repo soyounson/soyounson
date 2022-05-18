@@ -4,7 +4,7 @@
 </div>
 
 ### 🦋 Overview 
-I am a **data scientist** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and built a pipeline from feature engineering to data analysis with statistics, Machine learning, and deep learning. Also, I understand problems, approaches, and methodology, designing a piplines and delivering output, insights, and values. 
+I am a **data scientist** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and design a pipeline from feature engineering to models with statistics, Machine learning, and deep learning. I understand what customers want to solve and deliver promising output, insights, and values with diverse approaches and methodology. 
 
 ### 🌴 Areas of Expertise
  - Data Science
