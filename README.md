@@ -7,7 +7,7 @@
 I am a **data scientist** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and design a pipeline from feature engineering to models with statistics, Machine learning, and deep learning. I understand what customers want to solve and then I deliver promising output, insights, and values with diverse approaches and methodology. 
 
 ### 🌴 Areas of Expertise
- - Data Science
+ - Data Science/Analysis
  - Statistics for Machine Learning
  - Machine & Deep learning
  - Geophysics
@@ -19,7 +19,7 @@ I am a **data scientist** with extensive experiences, domain knowledge, and skil
 + Mathematics and statistics for ML
 + Features engineerings
 + Time series data sets
-+ App development 
++ Business analysis
 + ofc, ML/DL
 
 ### :round_pushpin: Where I have worked and studied ...
