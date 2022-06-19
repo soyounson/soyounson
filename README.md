@@ -16,10 +16,8 @@ I am a **data scientist** and **data analyst** with extensive experiences, domai
 
 ### 🌱 Current Areas of Interest (May, 2022)
 + NLP (Natural Language Processing)
-+ Mathematics and statistics for ML
 + Features engineerings
 + Time series data sets
-+ Business analysis
 + ofc, ML/DL
 
 ### :round_pushpin: Where I have worked and studied ...
