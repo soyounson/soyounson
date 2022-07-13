@@ -1,6 +1,6 @@
 
 <div>
-<img width="1000" alt="10_connect" src="https://user-images.githubusercontent.com/40614421/169029557-0833445c-67e9-4632-975b-27c9d26c7d91.png">
+<img width="500" alt="10_connect" src="https://user-images.githubusercontent.com/40614421/169029557-0833445c-67e9-4632-975b-27c9d26c7d91.png">
 </div>
 
 ### 🦋 Overview 
