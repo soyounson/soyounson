@@ -1,4 +1,4 @@
-### Contact
+### ☺︎ Contact
 If you have any questions and socilize, [email](soyoun.son@gmail.com) me, connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/), or check out my blog [ABB](https://soyounson.github.io/). 
 
 <!--- 
