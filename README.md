@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/images/bayesian_crop.png" width="500">
+<img src="/images/bayesian_crop.png" width="1000">
 </p>
 
 ### ☺︎ Contact
