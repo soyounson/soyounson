@@ -43,5 +43,5 @@ I am a **data scientist | applied scientist | AI scientist** with extensive expe
 
 + :atom: [Lab work : DeepIGeos](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
 
-+ 🌈 [Github blog : ABB](https://soyounson.github.io/)
++ 🌈 [Github blog : Derd](https://soyounson.github.io/)
 -->
