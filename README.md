@@ -2,8 +2,6 @@
 <img src="/images/bayesian_crop.png" width="700">
 </p>
 
-### ☺︎ Contact
-If you have any questions and socilize, email me soyoun.son@gmail.com , connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/), or check out my blog [Derd](https://soyounson.github.io/). 
 
 <!--- 
 <div>
