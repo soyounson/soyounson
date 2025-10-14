@@ -1,7 +1,7 @@
 
 
-### Overview 
-Soyoun Son 
+### Soyoun Son 
+
 Data scientist | Applied scientist | AI engineer
  
 <p align="center">
