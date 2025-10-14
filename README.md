@@ -5,7 +5,7 @@
 Data scientist | Applied scientist | AI engineer
  
 <p align="center">
-<img src="/images/kelp2.gif" width="700">
+<img src="/images/kelp3.gif" width="700">
 </p>
 
 
